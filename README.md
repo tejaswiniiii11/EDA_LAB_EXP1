@@ -2,7 +2,7 @@
 
 **Name:** Tejaswini M  
 **Register Number:** 23BAD121  
-**Course:** Artificial Intelligence & Data Science  
+**Course:** Exploratory Data Analysis & Visualization
 
 ----------------------------------------------
 
